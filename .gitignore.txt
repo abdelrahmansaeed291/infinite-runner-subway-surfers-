@@ -1,0 +1,21 @@
+# Unity specific
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Assets/AssetStoreTools*
+Assets/AssetStoreTools.log
+[Pp]rojectSettings/
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/ProjectVersion.txt
+ProjectSettings/UnityConnectSettings.asset
+[Dd]ata/
+[Tt]est[Bb]uild/
+[Bb]uild Report*.txt
+[Ll]ogg?d?[-]in?[Dd]ata/
+[Uu]ser[Ss]ettings/
+[Uu]sage*.json
+*.apk
+*.aab
+*.unitypackage
