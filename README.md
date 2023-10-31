@@ -33,4 +33,4 @@ achieve the highest score before the game ends.
   + pull the project and run the fiel named windosnew in the build folder if you want to run on Windows .
   
 ### Technologies
-  + unity & C .
+  + unity(C#) .
